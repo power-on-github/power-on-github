@@ -1,5 +1,13 @@
-### Hi there 👋
+# POWER-ON🤖
+**POSTECH** Undergraduate Student Robot Club
 
+POWER-ON, founded in 1991, started as a robot-football club and now creates robots and carries out various maker projects.
+
+Nowadays, we make robots reflecting current technological trends, like robots combined with a smart kiosk or robots with autonomous driving technology based on AI. We also do some carpentry or 3d printing works just for fun.
+
+We aim to establish a club where members can openly "make" and communicate about their works.
+
+- 📫 How to reach us: https://poweron.club
 <!--
 **power-on-github/power-on-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
