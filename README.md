@@ -8,6 +8,7 @@ Nowadays, we make robots reflecting current technological trends, like robots co
 We aim to establish a club where members can openly "make" and communicate about their works.
 
 - 📫 How to reach us: https://poweron.club
+- 📮 How to reach club leader: [Jinmo Kim](https://github.com/JinmoKIM1012), [email](jmkim1012@postech.ac.kr)
 <!--
 **power-on-github/power-on-github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
